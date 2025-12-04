@@ -7,14 +7,7 @@
 body{
     background-color: black;
 }
-article{
-    background-image: url(/IMG/imagennnnnnnnnnnn.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-     background-position: center;
-     height: 800px;
-     opacity: 0.20 black;
-}
+
 
 header{
     width: 100%;
@@ -49,7 +42,18 @@ nav a {
 nav ul :hover{
     color: green;
 }
+#viw{
+height: 750px;
+margin-top: -270px;
+width: 110%;
+margin-left: -50px;
+opacity: 0.70;
+}
 
+#eslo{
+    position: absolute;
+    margin-top: 200px;
+}
 #firma{
     color: white;
     display: flex;
@@ -581,3 +585,4 @@ h4{
         position: static;
     }
 }
+
