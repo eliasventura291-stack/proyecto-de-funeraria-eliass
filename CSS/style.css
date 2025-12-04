@@ -391,12 +391,6 @@ h4{
         top: 15px;
     }
 
-  
-    article {
-        height: 400px;
-        background-position: center;
-    }
-
         #viw{
 height: 750px;
 margin-top: -130px;
@@ -601,5 +595,6 @@ opacity: 0.70;
         position: static;
     }
 }
+
 
 
