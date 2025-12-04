@@ -397,6 +397,22 @@ h4{
         background-position: center;
     }
 
+        #viw{
+height: 750px;
+margin-top: -130px;
+width: 120%;
+margin-left: -50px;
+opacity: 0.70;
+}
+
+
+#eslo{
+    position: absolute;
+    margin-top: 200px;
+}
+
+  
+
     #firma {
         margin-top: 130px;
         font-size: 20px;
@@ -585,4 +601,5 @@ h4{
         position: static;
     }
 }
+
 
